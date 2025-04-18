@@ -1,5 +1,9 @@
 ### 定时任务需求
 
+本文示例项目仓库：[whuanle/HangfireDemo](https://github.com/whuanle/HangfireDemo)
+
+<br />
+
 主要有两个核心需求：
 
 * 需要实现秒级定时任务；
@@ -72,6 +76,10 @@ public async Task<string> SendAsync()
 
 
 ### 核心逻辑
+
+本文示例项目仓库：[whuanle/HangfireDemo](https://github.com/whuanle/HangfireDemo)
+
+<br />
 
 示例项目结构如下：
 
